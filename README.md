@@ -1,5 +1,6 @@
 ### Hi there! I'm Rismayanti 👩‍💻
-<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
 
 
 🎓 Informatics student at Universitas Maritim Raja Ali Haji  
