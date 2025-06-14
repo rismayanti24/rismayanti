@@ -1,5 +1,7 @@
 ### Hi there! I'm Rismayanti 👩‍💻
 
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150"/>
+
 🎓 Informatics student at Universitas Maritim Raja Ali Haji  
 💻 Currently learning C++, Object-Oriented Programming, and Databases  
 🎨 Enjoy designing visual learning materials and simple educational content  
@@ -8,11 +10,10 @@
 ---
 
 #### 💻 Tools & Tech I’m Learning:
-- C++
-- MySQL / Databases
-- Object-Oriented Programming
-- Microsoft Word & Excel
-- Canva
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-pink?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ---
 
@@ -24,7 +25,9 @@
 ---
 
 #### 📫 Let’s Connect!
-https://www.instagram.com/risma.fgr?igsh=MWN1aHN5aGZwbWZ1dQ==
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40risma.fgr-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/risma.fgr)
+
 ---
 
 > ✨ “Learning slowly is still learning. Just keep going.” ✨
