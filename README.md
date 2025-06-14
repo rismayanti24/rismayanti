@@ -26,8 +26,8 @@
 
 #### 📫 Let’s Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40risma.fgr-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/risma.fgr)
-[![Discord](https://img.shields.io/badge/Discord-badgrik-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/badgrik)
+[![Instagram](https://img.shields.io/badge/Instagram-@risma.fgr-pink?style=flat&logo=instagram)](https://instagram.com/risma.fgr)
+[![Discord](https://img.shields.io/badge/Discord-badgrik-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1367014137351372800)
 
 ---
 
